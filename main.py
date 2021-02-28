@@ -58,7 +58,7 @@ from math import *
 # print(str.count(piosenka, "la"))
 
 #Zad 7
-zmienna = "Ala ma kota"
+# zmienna = "Ala ma kota"
 # print(zmienna[1])
 # print(zmienna[10])
 
