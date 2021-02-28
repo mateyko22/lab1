@@ -45,6 +45,8 @@ from math import *
 
 #Zad4
 # print(exp(10))
+# rownanie = pow(log((5+pow(sin(8), 2)), e), 6)
+# print(rownanie)
 
 # #Zad5
 # imie = "MATEUSZ"
@@ -56,4 +58,9 @@ from math import *
 # print(str.count(piosenka, "la"))
 
 #Zad 7
+zmienna = "Ala ma kota"
+# print(zmienna[1])
+# print(zmienna[10])
 
+#Zad 8
+# print(str.split(zmienna))
